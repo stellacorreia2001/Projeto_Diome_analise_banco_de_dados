@@ -153,5 +153,7 @@ Também considero prioritário revisar os 25 clientes que não responderam, usan
 
 Preparei um Excel editável com a análise completa dos 100 clientes individualmente, incluindo nível de inadimplência, sentimento, urgência, plano recomendado e ação imediata, além das tabelas de motivos, análise das propostas e painel executivo com gráficos:
 
-link: https://chatgpt.com/s/t_6a7519e436f08191975b3900a7742208
+link: [relatorio_inadimplencia_analise_ceo.xlsx](https://github.com/user-attachments/files/30806118/relatorio_inadimplencia_analise_ceo.xlsx)
+
+
 
